@@ -1,0 +1,142 @@
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\ProductDeliveryManagement.dll.config
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\ProductDeliveryManagement.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\ProductDeliveryManagement.pdb
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\csc.exe
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\csc.exe.config
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\csc.rsp
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\csi.exe
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\csi.exe.config
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\csi.rsp
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Buffers.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Memory.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Numerics.Vectors.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\vbc.exe
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\vbc.exe.config
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\vbc.rsp
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\VBCSCompiler.exe
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\EntityFramework.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\EntityFramework.SqlServer.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Helpers.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Mvc.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Razor.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Webpages.Deployment.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Webpages.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Webpages.Razor.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\EntityFramework.xml
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\EntityFramework.SqlServer.xml
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Razor.xml
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Webpages.xml
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Webpages.Deployment.xml
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Webpages.Razor.xml
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Helpers.xml
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Mvc.xml
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\obj\Debug\ProductDeliveryManagement.csproj.AssemblyReference.cache
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\obj\Debug\ProductDeliveryManagement.csproj.CoreCompileInputs.cache
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\obj\Debug\ProductDeliveryManagement.csproj.CopyComplete
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\obj\Debug\ProductDeliveryManagement.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\obj\Debug\ProductDeliveryManagement.pdb
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Buffers.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Memory.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Numerics.Vectors.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Text.Encodings.Web.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\X.PagedList.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\X.PagedList.Mvc.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\X.PagedList.Web.Common.dll
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Buffers.xml
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Memory.xml
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Numerics.Vectors.xml
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Text.Encodings.Web.xml
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\ProductDeliveryManagement.dll.config
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\ProductDeliveryManagement.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\ProductDeliveryManagement.pdb
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\csc.exe
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\csc.exe.config
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\csc.rsp
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\csi.exe
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\csi.exe.config
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\csi.rsp
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Buffers.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Memory.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Numerics.Vectors.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\vbc.exe
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\vbc.exe.config
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\vbc.rsp
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\VBCSCompiler.exe
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\EntityFramework.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\EntityFramework.SqlServer.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Buffers.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Memory.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Numerics.Vectors.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Text.Encodings.Web.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Helpers.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Mvc.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Razor.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Webpages.Deployment.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Webpages.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Webpages.Razor.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\X.PagedList.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\X.PagedList.Mvc.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\X.PagedList.Web.Common.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\EntityFramework.xml
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\EntityFramework.SqlServer.xml
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Buffers.xml
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Memory.xml
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Numerics.Vectors.xml
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Text.Encodings.Web.xml
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Razor.xml
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Webpages.xml
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Webpages.Deployment.xml
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Webpages.Razor.xml
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Helpers.xml
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\bin\System.Web.Mvc.xml
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\obj\Debug\ProductDeliveryManagement.csproj.AssemblyReference.cache
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\obj\Debug\ProductDeliveryManagement.csproj.CoreCompileInputs.cache
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\obj\Debug\ProductDeliveryManagement.csproj.CopyComplete
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\obj\Debug\ProductDeliveryManagement.dll
+D:\MVC All in One\PolockGroup\Farzana\Polock\ProductDeliveryManagement\ProductDeliveryManagement\obj\Debug\ProductDeliveryManagement.pdb
